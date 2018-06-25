@@ -5,7 +5,7 @@ A list of approved extensions for Barebones CMS.  This is a fully automated repo
 
 See the bottom of this page for instructions on publishing new extensions.
 
-No extensions are available at this time.
+@EXTENSIONS@
 
 Publishing Extensions
 ---------------------
