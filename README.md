@@ -5,7 +5,10 @@ A list of approved extensions for Barebones CMS.  This is a fully automated repo
 
 See the bottom of this page for instructions on publishing new extensions.
 
-No extensions are available at this time.
+Plugins
+-------
+
+* [Barebones CMS demo website plugins](https://github.com/cubiclesoft/barebones-cms-plugins-demo-site) - Jul 3, 2018 - The plugins used on the Barebones CMS demo site.  MIT or LGPL.
 
 Publishing Extensions
 ---------------------
