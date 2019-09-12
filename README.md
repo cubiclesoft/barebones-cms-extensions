@@ -8,7 +8,7 @@ See the bottom of this page for instructions on publishing new extensions.
 Plugins
 -------
 
-* [Barebones CMS demo website plugins](https://github.com/cubiclesoft/barebones-cms-plugins-demo-site) - Jul 3, 2018 - The plugins used on the Barebones CMS demo site.  MIT or LGPL.
+* [Barebones CMS demo website plugins](https://github.com/cubiclesoft/barebones-cms-plugins-demo-site) - Sep 11, 2019 - The plugins used on the Barebones CMS demo site.  MIT or LGPL.
 
 Publishing Extensions
 ---------------------
