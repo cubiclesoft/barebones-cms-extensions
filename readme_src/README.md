@@ -5,6 +5,8 @@ A list of approved extensions for Barebones CMS.  This is a fully automated repo
 
 See the bottom of this page for instructions on publishing new extensions.
 
+[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/) [![Discord](https://img.shields.io/discord/777282089980526602?label=chat&logo=discord)](https://cubiclesoft.com/product-support/github/)
+
 @EXTENSIONS@
 
 Publishing Extensions
